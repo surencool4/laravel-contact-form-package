@@ -16,5 +16,11 @@ This Laravel package provides an easy-to-use contact form with built-in mail fun
 ## Installation
 
 1. **Require the package via Composer:**
-   ```bash
-   composer require surencool4/contact
+   ```composer require surencool4/contact```
+
+
+2. **Vendor Publish:**
+```php artisan vendor:publish --tag:contact-config```
+
+3. **Migration**
+```php artisan migrate```
