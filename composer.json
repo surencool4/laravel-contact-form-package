@@ -1,0 +1,25 @@
+{
+    "name": "owc/contact",
+    "description": "laravel contact form package",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Owc\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel":{
+            "providers":[
+                "Owc\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "dev suren"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
