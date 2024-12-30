@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Owc\\Contact\\": "src/"
+            "Surencool4\\Contact\\": "src/"
         }
     },
     "extra": {
