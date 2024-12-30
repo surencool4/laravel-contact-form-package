@@ -1,5 +1,5 @@
 {
-    "name": "owc/contact",
+    "name": "surencool4/contact",
     "description": "laravel contact form package",
     "type": "package",
     "license": "MIT",
@@ -11,7 +11,7 @@
     "extra": {
         "laravel":{
             "providers":[
-                "Owc\\Contact\\ContactServiceProvider"
+                "Surencool4\\Contact\\ContactServiceProvider"
             ]
         }
     },

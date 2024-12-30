@@ -1,6 +1,6 @@
 <?php
 
-namespace Owc\Contact;
+namespace Surencool4\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

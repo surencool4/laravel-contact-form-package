@@ -17,4 +17,4 @@ This Laravel package provides an easy-to-use contact form with built-in mail fun
 
 1. **Require the package via Composer:**
    ```bash
-   composer require owc/contact
+   composer require surencool4/contact

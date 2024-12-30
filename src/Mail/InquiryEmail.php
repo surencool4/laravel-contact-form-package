@@ -1,6 +1,6 @@
 <?php
 
-namespace Owc\Contact\Mail;
+namespace Surencool4\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

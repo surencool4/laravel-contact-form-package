@@ -1,11 +1,11 @@
 <?php 
 
-    namespace Owc\Contact\Http\Controllers;
+    namespace Surencool4\Contact\Http\Controllers;
     use Illuminate\Routing\Controller as BaseController;
     use Illuminate\Http\Request;
     use Illuminate\Support\Facades\Mail;
-    use Owc\Contact\Mail\InquiryEmail;
-    use Owc\Contact\Models\Contact;
+    use Surencool4\Contact\Mail\InquiryEmail;
+    use Surencool4\Contact\Models\Contact;
 
     class ContactController extends BaseController
     {
